@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/gentoo/afni/build/_deps/fetch_nifti_clib_git_repo-subbuild/CMakeFiles/fetch_nifti_clib_git_repo-populate"
+		},
+		{
+			"file" : "/home/gentoo/afni/build/_deps/fetch_nifti_clib_git_repo-subbuild/CMakeFiles/fetch_nifti_clib_git_repo-populate.rule"
+		},
+		{
+			"file" : "/home/gentoo/afni/build/_deps/fetch_nifti_clib_git_repo-subbuild/CMakeFiles/fetch_nifti_clib_git_repo-populate-complete.rule"
+		},
+		{
+			"file" : "/home/gentoo/afni/build/_deps/fetch_nifti_clib_git_repo-subbuild/fetch_nifti_clib_git_repo-populate-prefix/src/fetch_nifti_clib_git_repo-populate-stamp/fetch_nifti_clib_git_repo-populate-install.rule"
+		},
+		{
+			"file" : "/home/gentoo/afni/build/_deps/fetch_nifti_clib_git_repo-subbuild/fetch_nifti_clib_git_repo-populate-prefix/src/fetch_nifti_clib_git_repo-populate-stamp/fetch_nifti_clib_git_repo-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/gentoo/afni/build/_deps/fetch_nifti_clib_git_repo-subbuild/fetch_nifti_clib_git_repo-populate-prefix/src/fetch_nifti_clib_git_repo-populate-stamp/fetch_nifti_clib_git_repo-populate-download.rule"
+		},
+		{
+			"file" : "/home/gentoo/afni/build/_deps/fetch_nifti_clib_git_repo-subbuild/fetch_nifti_clib_git_repo-populate-prefix/src/fetch_nifti_clib_git_repo-populate-stamp/fetch_nifti_clib_git_repo-populate-update.rule"
+		},
+		{
+			"file" : "/home/gentoo/afni/build/_deps/fetch_nifti_clib_git_repo-subbuild/fetch_nifti_clib_git_repo-populate-prefix/src/fetch_nifti_clib_git_repo-populate-stamp/fetch_nifti_clib_git_repo-populate-patch.rule"
+		},
+		{
+			"file" : "/home/gentoo/afni/build/_deps/fetch_nifti_clib_git_repo-subbuild/fetch_nifti_clib_git_repo-populate-prefix/src/fetch_nifti_clib_git_repo-populate-stamp/fetch_nifti_clib_git_repo-populate-configure.rule"
+		},
+		{
+			"file" : "/home/gentoo/afni/build/_deps/fetch_nifti_clib_git_repo-subbuild/fetch_nifti_clib_git_repo-populate-prefix/src/fetch_nifti_clib_git_repo-populate-stamp/fetch_nifti_clib_git_repo-populate-build.rule"
+		},
+		{
+			"file" : "/home/gentoo/afni/build/_deps/fetch_nifti_clib_git_repo-subbuild/fetch_nifti_clib_git_repo-populate-prefix/src/fetch_nifti_clib_git_repo-populate-stamp/fetch_nifti_clib_git_repo-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"fetch_nifti_clib_git_repo-populate"
+		],
+		"name" : "fetch_nifti_clib_git_repo-populate"
+	}
+}

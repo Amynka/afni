@@ -1,0 +1,3 @@
+/home/gentoo/afni/build/_deps/fetch_nifti_clib_git_repo-subbuild/CMakeFiles/rebuild_cache.dir
+/home/gentoo/afni/build/_deps/fetch_nifti_clib_git_repo-subbuild/CMakeFiles/fetch_nifti_clib_git_repo-populate.dir
+/home/gentoo/afni/build/_deps/fetch_nifti_clib_git_repo-subbuild/CMakeFiles/edit_cache.dir
