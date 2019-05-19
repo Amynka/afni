@@ -1,3 +1,0 @@
-/home/gentoo/afni/build/_deps/fetch_testing_data-subbuild/CMakeFiles/rebuild_cache.dir
-/home/gentoo/afni/build/_deps/fetch_testing_data-subbuild/CMakeFiles/fetch_testing_data-populate.dir
-/home/gentoo/afni/build/_deps/fetch_testing_data-subbuild/CMakeFiles/edit_cache.dir

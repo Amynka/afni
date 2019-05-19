@@ -1,3 +1,0 @@
-repository='external project URL'
-module='https://github.com/NIFTI-Imaging/nifti-test-data/archive/v3.0.1.tar.gz'
-tag='SHA256=81accd390e7c7223e090ea8b2acaf145424b28148db3ef0eee4e9d6b2fd4d521'

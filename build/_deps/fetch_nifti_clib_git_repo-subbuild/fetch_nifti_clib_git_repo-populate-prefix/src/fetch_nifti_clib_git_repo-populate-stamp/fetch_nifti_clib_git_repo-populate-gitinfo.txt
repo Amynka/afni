@@ -1,3 +1,0 @@
-repository='https://github.com/leej3/nifti_clib.git'
-module=''
-tag=''
